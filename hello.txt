@@ -7,4 +7,4 @@ hello zy! hello git!
 hello zy! hello git!
 hello zy! hello git!
 hello zy! hello git! master test
-hello zy! hello git!
+hello zy! hello git! hot-fix test
